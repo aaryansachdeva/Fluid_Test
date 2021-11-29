@@ -13,4 +13,15 @@ body {
 canvas {
     width: 100%;
     height: 100%;
+    
+}
+
+.top {
+    height: 70px;
+    vertical-align: middle;
+    user-select: none;
+    position: fixed;
+    margin-top: 50vh;
+    margin-left: 50vw;
+    
 }
